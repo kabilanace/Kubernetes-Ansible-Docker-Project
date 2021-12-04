@@ -3,10 +3,3 @@
 <h2> Glad to see you here again !!! </h2>
 <h2> GCP Ubuntu Instance AMI using KOP - CICD PipeLine using GCP<h2>
 <h2> Good Evening All </h2>
-<html>
-<body>
-<h2>Hello World! project test deploying .war file</h2>
-  <h3>project2 </h3>
-  <h4>project latest123 nexus</h4>
-</body>
-</html>
